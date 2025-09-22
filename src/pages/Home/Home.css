@@ -44,3 +44,17 @@
     cursor: pointer;
     border-radius: 4px;
 }
+.hero-btns .btn.dark-btn{
+    background: #6d6d6eb3;
+    color: #fff;
+
+}
+
+.hero-btns .btn:hover{
+    background:#ffffffbf;
+}
+
+.hero-btns .btn.dark-btn:hover{
+    background: #6d6d6e66;
+}
+
